@@ -8,6 +8,7 @@ Description
 The dynamic usage of the 3’untranslated region (3’UTR) resulting from alternative polyadenylation (APA) is emerging as a pervasive mechanism for regulating mRNA diversity, stability and translation. Though RNA-seq provides the whole-transcriptome information and a lot of tools for analyzing gene/isoform expression are available, very few tool focus on the analysis of 3'UTR from standard RNA-seq. DaPars is the first de novo tool that directly infers the dynamic alternative polyadenylation (APA) usage by comparing standard RNA-seq. Given the annotated gene model, DaPars can infer the de novo proximal APA sites as well as the long and short 3'UTR expression levels. Finally, the dynamic APA usages between two conditions will be identified.
 
 
+
 ![Speed Comparison](http://bedtools.readthedocs.org/en/latest/_images/speed-comparo.png)
 
 Citation
