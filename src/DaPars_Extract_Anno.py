@@ -13,7 +13,7 @@ def Annotation_prepar_3UTR_extraction(gene_bed_file, gene_symbol_map_kfXref_file
     num_line = 0
     for line in open(gene_symbol_map_kfXref_file, 'r'):
         if num_line > 0:
-            fields = line.strip('\n').split('\t')
+            fields = line.strip('\n').strip('\r').split('\t')
             gene_symbol = fields[1]
             refseq_transcript_id = fields[0]
             refseq_trapt_gene_symbol_dict[refseq_transcript_id] = gene_symbol
