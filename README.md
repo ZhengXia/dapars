@@ -21,5 +21,7 @@ Citation
 
 * Xia, Z., Donehower, L.A., Wheeler, D.A., Cooper, T.A., Neilson, J.R., Wagner E.J., Li, W. 2014. Dynamic Analyses of Alternative Polyadenylation from RNA-Seq Reveal 3'-UTR Landscape Across 7 Tumor Types. Nature Communications, 5:5274.
 
-
+Mailing list
+-----------
+If you have questions, requests, or bugs to report, please email the [DaPars mailing list](https://groups.google.com/forum/#!forum/DaPars)
 
