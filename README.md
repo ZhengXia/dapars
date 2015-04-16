@@ -18,6 +18,7 @@ Citation
 -----
 *Please cite the following articles if you use DaPars in your research*:
 * Masamha, C.P., Xia, Z., Yang, J., Albrecht, T.R., Li, M., Shyu, A., Li, W., Wagner, E.J. 2014. CFIm25 links Alternative Polyadenylation to Glioblastoma Tumor Suppression. Nature, 510:412-416.
+
 * Xia, Z., Donehower, L.A., Wheeler, D.A., Cooper, T.A., Neilson, J.R., Wagner E.J., Li, W. 2014. Dynamic Analyses of Alternative Polyadenylation from RNA-Seq Reveal 3'-UTR Landscape Across 7 Tumor Types. Nature Communications, 5:5274.
 
 
