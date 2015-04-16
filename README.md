@@ -9,7 +9,7 @@ The dynamic usage of the 3’untranslated region (3’UTR) resulting from altern
 
 
 
-![Speed Comparison](https://www.dropbox.com/s/kdxe18pggh9jdlf/12003068763_87e68075f6.jpg?dl=0)
+![Speed Comparison](http://farm6.staticflickr.com/5533/12003068763_87e68075f6.jpg)
 
 Citation
 -----
