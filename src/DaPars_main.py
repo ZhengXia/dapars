@@ -504,7 +504,7 @@ def Load_Target_Wig_files(All_Wig_files, UTR_Annotation_file):
                     curr_sample_All_chroms_coverage_dict[chrom_name][0].append(region_start)
                     curr_sample_All_chroms_coverage_dict[chrom_name][1].append(0)
                 curr_sample_All_chroms_coverage_dict[chrom_name][0].append(region_end)
-                curr_sample_All_chroms_coverage_dict[chrom_name][1].append(int(fields[-1]))
+                curr_sample_All_chroms_coverage_dict[chrom_name][1].append(int(float(fields[-1])))
             num_line += 1
         curr_sample_All_chroms_coverage_dict[chrom_name][1].append(0)
         All_Samples_Total_depth.append(cur_sample_total_depth)
