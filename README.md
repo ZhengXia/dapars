@@ -1,11 +1,7 @@
 DaPars(Dynamic analysis of Alternative PolyAdenylation from RNA-seq)
 ======
 
-Sep, 2022: DaPars was updated to 1.0.0 with the following changes:
 
-   1. Updated to python3
-   2. Removed rpy2 and use python for the statistical test
-   3. Fixed some minor bugs.
    
 **Current version**: 1.0.0
 
@@ -19,7 +15,13 @@ The dynamic usage of the 3’untranslated region (3’UTR) resulting from altern
 ![Flowchart](http://farm6.staticflickr.com/5533/12003068763_87e68075f6.jpg)
 ![Cancer](http://farm8.staticflickr.com/7459/8858567224_4b0f0214cf.jpg)
 
+-----
+**News**
+Sep, 2022: DaPars was updated to 1.0.0 with the following changes:
 
+   1. Updated to python3
+   2. Removed rpy2 and use python for the statistical test
+   3. Fixed some minor bugs.
 
 Citation
 -----
