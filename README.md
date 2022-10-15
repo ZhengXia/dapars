@@ -2,8 +2,10 @@ DaPars(Dynamic analysis of Alternative PolyAdenylation from RNA-seq)
 ======
 
 Sep, 2022: DaPars was updated to 1.0.0 with the following changes:
-   1.
-   2.
+
+   1. Updated to python3
+   2. Removed rpy2 and use python for the statistical test
+   3. Fixed some minor bugs.
    
 **Current version**: 0.9.1
 
