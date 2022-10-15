@@ -1,3 +1,10 @@
+DaPars v1.0.0 (Sep 2022)
+
+Updated to python 3
+Removed rpy2 and use python for the statistical test
+Fixed some minor bugs.
+
+
 DaPars v0.9.1 (12-Feb-2015)
 
 Fixed some minor bugs.
