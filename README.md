@@ -18,7 +18,7 @@ The dynamic usage of the 3’untranslated region (3’UTR) resulting from altern
 
 **News**
 -----
-**Sep, 2022**: DaPars was updated to 1.0.0 with the following changes:
+**Sep, 2022**: DaPars was updated to 1.0.0 with the following changes (courtesy: Yi Zhang):
    1. Updated to python3
    2. Removed rpy2 and use python for the statistical test
    3. Fixed some minor bugs.
