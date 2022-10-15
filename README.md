@@ -7,7 +7,7 @@ Sep, 2022: DaPars was updated to 1.0.0 with the following changes:
    2. Removed rpy2 and use python for the statistical test
    3. Fixed some minor bugs.
    
-**Current version**: 0.9.1
+**Current version**: 1.0.0
 
 [**Full Documentations**](http://xiazlab.org/dapars_tutorial/html/DaPars.html)
 Description
