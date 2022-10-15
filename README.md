@@ -1,6 +1,9 @@
 DaPars(Dynamic analysis of Alternative PolyAdenylation from RNA-seq)
 ======
 
+Sep, 2022: DaPars was updated to 1.0.0 with the following changes:
+   1.
+   2.
 **Current version**: 0.9.1
 
 [**Full Documentations**](http://xiazlab.org/dapars_tutorial/html/DaPars.html)
